@@ -1,6 +1,7 @@
 # GameofLife
 
 * simple recreation of Conway's game of life in java
+* contains a heatmap illustrating the number of neighbours a cell has
 
 ### Instructions
 
